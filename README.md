@@ -4,6 +4,9 @@
 #### Readme sur l'Interface Utilisateur Native du groupe : Ludovic Robez et Florian Marie
 Présentation du projet TD2  
 
+#### Interface Utilisateur Native
+Présentation du projet TD2  
+
 Le sujet du td à realiser  :  http://www.machada.fr/lpidse/android_td2.pdf  
 
 
@@ -31,21 +34,17 @@ Le sujet du td à realiser  :  http://www.machada.fr/lpidse/android_td2.pdf
 
 ##### Observation :  
 
-##Elements manquants : 
+-premier layout bien présent 
+-submit bien plaçer en bas à droite du EditText
+-d'un message d'avertissement/d'erreur si rien n'est saisie dans l'EditText
+et que l'utilisateur appuie sur submit
+-la gallery d'image , bien séparé en deux colonnes 
+
+
+Absence : 
 -number picker  
 -Toolbar  
+-L'image sur le layout principal
 
-##### Layout principal
+##### Voici quelques images :
 ![Github]()
-
-* Ils ont bien respectés les consignes du premier layout, le submit est bien à droit en dessous du EditText et l'image au dessus.
-
-##### Layout NumberPicker
-![Github]()
-
-* Ajout de l'objet NumberPicker se situant bien entre 10 et 20
-* Ajout du bouton Next pour aller vers le GridView
-
-##### Layout GridView
-![Github]()
-* La gallery correspond bien aux attentes du tp2 il  y a bien 2 colonnes, et autant de lignes qu'il y a d'images. De plus il y a bien du menu avec les (...) qui affiche ensuite le choix entre 'TD2', 'Settings' et 'TD2 Developed by MEYER PONZO'.
