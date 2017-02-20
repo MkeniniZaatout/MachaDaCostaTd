@@ -4,11 +4,9 @@
 #### Readme sur l'Interface Utilisateur Native du groupe : Ludovic Robez et Florian Marie
 Présentation du projet TD2  
 
-#### Interface Utilisateur Native
-Présentation du projet TD2  
+#### Interface Utilisateur Native  
 
 Le sujet du td à realiser  :  http://www.machada.fr/lpidse/android_td2.pdf  
-
 
 #### Structure du projet
 ```
@@ -47,4 +45,6 @@ Absence :
 -L'image sur le layout principal
 
 ##### Voici quelques images :
-![Github]()
+![Github](https://github.com/MkeniniZaatout/MachaDaCostaTd/blob/master/images/1.png)
+![Github](https://github.com/MkeniniZaatout/MachaDaCostaTd/blob/master/images/2.png)
+![Github](https://github.com/MkeniniZaatout/MachaDaCostaTd/blob/master/images/3.png)
