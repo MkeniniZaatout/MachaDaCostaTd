@@ -33,16 +33,16 @@ Le sujet du td à realiser  :  http://www.machada.fr/lpidse/android_td2.pdf
 ##### Observation :  
 
 -premier layout bien présent 
--submit bien plaçer en bas à droite du EditText
--d'un message d'avertissement/d'erreur si rien n'est saisie dans l'EditText
-et que l'utilisateur appuie sur submit
--la gallery d'image , bien séparé en deux colonnes 
+-submit bien plaçer en bas à droite du EditText  
+-message d'avertissement/d'erreur si rien n'est saisie dans l'EditText  
+et que l'utilisateur appuie sur submit  
+-la gallery d'image , bien séparé en deux colonnes  
 
 
-Absence : 
+Absence :  
 -number picker  
 -Toolbar  
--L'image sur le layout principal
+-L'image sur le layout principal  
 
 ##### Voici quelques images :
 ![Github](https://github.com/MkeniniZaatout/MachaDaCostaTd/blob/master/images/1.png)
