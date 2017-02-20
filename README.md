@@ -1,7 +1,7 @@
 # MachaDaCostaTd  
 ## Repot pour déposer les tds Android
 
-#### Interface Utilisateur Native
+#### Readme sur l'Interface Utilisateur Native du groupe : Ludovic Robez et Florian Marie
 Présentation du projet TD2  
 
 Le sujet du td à realiser  :  http://www.machada.fr/lpidse/android_td2.pdf  
